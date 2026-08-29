@@ -1,9 +1,10 @@
 # WattBill
 
-Household electricity bills hide the kWh behind network, certificates, excise,
-and VAT. You used 180 kWh. That is not 100% of what you paid.
+Disaggregates a household electricity invoice into energy, network, and tax.
+The kWh you used is one line; distribution, certificates, excise, and VAT are
+the rest of what you paid.
 
-The buckets are in [`src/lib/bill.ts`](src/lib/bill.ts). Energy vs pipes vs tax.
+Buckets are defined in [`src/lib/bill.ts`](src/lib/bill.ts).
 
 **React 19 · TypeScript (strict) · Vite 8 · Tailwind CSS 4 · Vitest ·
 Playwright**
@@ -23,11 +24,11 @@ and Logs (Mountain View).
 | -------- | --------------------------------------------------------------------------------------- |
 | GitHub   | [github.com/alexalghisi](https://github.com/alexalghisi)                                |
 | LinkedIn | [linkedin.com/in/alghisi](https://www.linkedin.com/in/alghisi)                          |
-| Email    | [alessandro@onlineparentingprograms.com](mailto:alessandro@onlineparentingprograms.com) |
+| Email    | [alexalghisi@gmail.com](mailto:alexalghisi@gmail.com)                                   |
 | Location | Cluj-Napoca, Romania · open to remote / EU / US-friendly timezones                      |
 
 **Hiring?** Open an issue, message me on LinkedIn, or email
-[alessandro@onlineparentingprograms.com](mailto:alessandro@onlineparentingprograms.com).
+[alexalghisi@gmail.com](mailto:alexalghisi@gmail.com).
 
 ---
 

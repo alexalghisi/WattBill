@@ -48,5 +48,5 @@
     "vitest": "^4.1.10"
   },
   "name": "wattbill",
-  "description": "Decode a household electricity bill into energy, network, and tax. See what you used versus what the pipes cost."
+  "description": "Electricity invoice disaggregation: energy vs network vs tax on a household bill."
 }
