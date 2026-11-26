@@ -4,6 +4,10 @@ Disaggregates a household electricity invoice into energy, network, and tax.
 The kWh you used is one line; distribution, certificates, excise, and VAT are
 the rest of what you paid.
 
+**Download:** [latest release](https://github.com/alexalghisi/WattBill/releases/latest)
+
+![WattBill running](docs/preview.png)
+
 Buckets are defined in [`src/lib/bill.ts`](src/lib/bill.ts).
 
 **React 19 · TypeScript (strict) · Vite 8 · Tailwind CSS 4 · Vitest ·
